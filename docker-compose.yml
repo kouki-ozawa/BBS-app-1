@@ -34,5 +34,6 @@ services:
       - "3001:3000"
     volumes:
       - ./frontend:/app
+      - /app/node_modules
 
 # SQLite はホストにファイルを置くだけなので external volumes は不要です
