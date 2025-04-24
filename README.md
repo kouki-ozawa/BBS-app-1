@@ -1,3 +1,6 @@
+##概要
+開発中の掲示板アプリ
+
 ## 構成
 
 - **backend**: Ruby on Rails + SQLite  
